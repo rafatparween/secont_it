@@ -34,4 +34,4 @@ const JivoChat = () => {
   return null;
 };
 
-export default JivoChat;
+export default JivoChat

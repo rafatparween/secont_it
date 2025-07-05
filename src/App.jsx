@@ -33,6 +33,7 @@ import Stab from './pages/Stab';
 import Swifi from './pages/Swifi';
 import Saudio from './pages/Saudio';
 import Scomputer from './pages/Scomputer';
+import JivoChat from './sections/JivoChat';
 
 const App = () => {
   return (
@@ -85,6 +86,7 @@ const App = () => {
         </Routes>
 
         <Footer />
+        <JivoChat/>
       </CartProvider>
     </Router>
   );

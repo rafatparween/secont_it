@@ -72,7 +72,7 @@ const Footer = () => {
                 href="mailto:support@eztechprintersolutions.com"
                 className="hover:text-teal-200"
               >
-                support@hewlettprintersolution.com
+                support@123hpeasyprintsolutions.com
               </a>
             </p>
           </div>
@@ -96,7 +96,7 @@ const Footer = () => {
           </div>
         </div>
         <div className="text-center text-gray-100 mt-8">
-          &copy; {new Date().getFullYear()}123 Hp Easy Print Solutions. All rights
+          &copy; {new Date().getFullYear()} 123hpeasyprintsolutions. All rights
           reserved.
         </div>
       </div>
@@ -104,6 +104,6 @@ const Footer = () => {
   );
 };
 
-export default Footer;
+export default Footer
 
 

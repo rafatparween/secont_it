@@ -203,7 +203,7 @@ const Navbar = () => {
         {/* <img className='h-[76px] w-[83px]' src='https://www.theexaminer.com/sites/theexaminer.com/files/styles/article_420/public/2022-08/51565990_1813180982127321_4250422175833522176_n.png?itok=DFmEmPkY'/> */}
           <div className="flex items-center">
             <Link to="/" className="text-[39px] text-[#0C71C3] font-sans 2xl:ml-[-225px]">
-              Hewlett PrinterSolution
+              Hewlett Printers Solution
             </Link>
           </div>
           <div className="hidden lg:flex lg:items-center lg:space-x-8">
